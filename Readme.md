@@ -1,5 +1,5 @@
 # Kickstarting with Excel
-
+Performing analysis on Kickstarter data to uncover the trends
 ## Overview of Project
  Analyze the impact of launch dates and funding goals on the outcome.
 ### Purpose
